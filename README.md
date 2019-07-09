@@ -75,7 +75,7 @@ La procédure est simple, il suffit :
  Voilà une structure HTML conçue par un ancêtre du web, c’est le moment de montrer que la nouvelle génération maîtrise 
  les nouvelles normes HTML5.
  
- Dans un style rédactionnel (c-à-dire par un recodage de la page mais une liste de modifications), 
+ Dans un style rédactionnel (c'est-à-dire pas un recodage de la page mais une liste de modifications), 
  décrivez les modifications nécessaires à apporter à cette page afin de se rapprocher 
  d’une structure HTML5 moderne ( sémantique HTML et tout ce qui vous passe par la tête ).
  
@@ -104,7 +104,7 @@ La procédure est simple, il suffit :
  
  [Répondre](answers/SQL/question_1.sql)
 
-### 2/ Ecrirez les requêtes SQL permettant de répondre aux questions suivantes :
+### 2/ Ecrivez les requêtes SQL permettant de répondre aux questions suivantes :
 
 #### Considérant les deux tables suivantes :
 **Table 'Category'**
@@ -189,7 +189,7 @@ $categories = array ("Catégorie 1", "Catégorie 2", "Catégorie 3");
 ### 3/ String au fort caractère
 On dispose de la variable suivante :
 ```$str = "Chaîne de de caractères";```
-#### a. La transformer pour qu'elle contienne "Chaine de caractère"
+#### a. La transformer pour qu'elle contienne "Chaîne de caractères"
 #### b. Transformer le "é" en caractère correspondant HTML
 #### c. Remplacer chaque lettre de début des mots par la majuscule correspondante
  [Répondre](answers/PHP/question_3.php)
