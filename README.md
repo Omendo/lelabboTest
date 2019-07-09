@@ -189,8 +189,8 @@ $categories = array ("Catégorie 1", "Catégorie 2", "Catégorie 3");
 ### 3/ String au fort caractère
 On dispose de la variable suivante :
 ```$str = "Chaîne de de caractères";```
-#### a. La transformer pour qu'elle contienne "Chaîne de caractères"
-#### b. Transformer le "é" en caractère correspondant HTML
+#### a. La transformer pour qu'elle contienne "Chaine de caractères"
+#### b. Transformer le "è" en caractère correspondant HTML
 #### c. Remplacer chaque lettre de début des mots par la majuscule correspondante
  [Répondre](answers/PHP/question_3.php)
 
