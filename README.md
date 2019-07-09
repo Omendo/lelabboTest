@@ -22,6 +22,7 @@ La procedure est simple, il suffit :
     page chargée depuis 4s    
     page chargée depuis 5s
   ```
+  [Répondre](answers/jquery/question_1.js)
 
  ### 2/ Click
  Sur un élément HTML button il y a déjà quelques évènements ‘click’ attachés. En utilisant jQuery, attachez un 
