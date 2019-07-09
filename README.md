@@ -27,6 +27,7 @@ La procedure est simple, il suffit :
  ### 2/ Click
  Sur un élément HTML button il y a déjà quelques évènements ‘click’ attachés. En utilisant jQuery, attachez un 
  évènement ‘click’ supplémentaire puis détachez-le sans toucher aux autres events.
+ [Répondre](answers/jquery/question_2.html)
  
  
  ## Vanilla Js
@@ -47,6 +48,7 @@ La procedure est simple, il suffit :
     console.log(stoleSecretIdentity());
     console.log(hero.getSecretIdentity());
 ```
+[Répondre](answers/vanillaJs/question_1.js)
 
  ### 2/ Que va afficher ce code en sortie ?
  ``` 
@@ -57,9 +59,13 @@ La procedure est simple, il suffit :
  
  Expliquer votre réponse. Comment l'utilisation d'une closure ou d'une arrow peut nous aider ici ?
  
+ [Répondre](answers/vanillaJs/question_2.js)
+ 
  ### 3/ Are you DOM ready ?
  Créer une fonction qui, en recevant un élément du DOM, va aller parcourir cet élément ainsi que tous ses 
  enfants (pas seulement ses enfants directs). Pour chaque élément visité, la fonction doit le stocker dans un tableau.
+ 
+ [Répondre](answers/vanillaJs/question_3.js)
  
  ## HTML5 - CSS3
  
@@ -72,6 +78,8 @@ La procedure est simple, il suffit :
  d’une structure HTML5 moderne ( sémantique HTML et tout ce qui vous passe par la tête ).
  
  ![jurassicWeb](/assets/jurassic_html.png)
+ 
+ [Répondre](answers/HTML5-CSS3/question_1.md)
  
  ## SQL
  
@@ -91,6 +99,8 @@ La procedure est simple, il suffit :
  - Banane 16
  - Pomme 17
  - Orange 12
+ 
+ [Répondre](answers/SQL/question_1.sql)
 
 ### 2/ Ecrirez les requêtes SQL permettant de répondre aux questions suivantes :
 
@@ -106,12 +116,15 @@ La procedure est simple, il suffit :
  - category_id
  - price
 
+
 #### Questions :
 
 - a. Quels produits contiennent le mot "clavier" dans leur description ?
 - b. Quelle catégorie contient le produit nommé "Produit 1" ?
 - c. Dans quelle(s) catégorie(s) se trouve le produit le plus cher ?
 - d. Quelles catégories possèdent 5 produits ou plus ?
+
+ [Répondre](answers/SQL/question_2.sql)
 
 ### 3/ Ecrire la requête SQL permettant d'afficher les produits par catégorie de la manière suivante :
 ``` 
@@ -121,6 +134,8 @@ Catégorie 2 		Produit 2, Produit 3, Produit 4
 Catégorie 3 		Produit 5, Produit 6
 ```
 *Sachant que category_id de la table Products renvoit à un id de la table Category*
+
+ [Répondre](answers/SQL/question_3.sql)
 
 ## PHP
 
@@ -135,6 +150,7 @@ La variable PHP $testArray est un tableau remplit de données. En utilisant PHP,
     var testArray = <?=$resultForJs?>;
 </script>
 ```
+ [Répondre](answers/PHP/question_1.php)
 
 ### 2/ PreProcessing
 On dispose des données suivantes :
@@ -165,6 +181,8 @@ $categories = array ("Catégorie 1", "Catégorie 2", "Catégorie 3");
  - Catégorie 1 : Produit 1
  - Catégorie 2 : Produit 2, Produit 3, Produit 4
  - Catégorie 3 : Produit 5, Produit 6
+ 
+  [Répondre](answers/PHP/question_2.php)
 
 ### 3/ String au fort caractère
 On dispose de la variable suivante :
@@ -172,7 +190,7 @@ On dispose de la variable suivante :
 #### a. La transformer pour qu'elle contienne "Chaine de caractère"
 #### b. Transformer le "é" en caractère correspondant HTML
 #### c. Remplacer chaque lettre de début des mots par la majuscule correspondante
-
+ [Répondre](answers/PHP/question_3.php)
 
 ## Algorithmie
 
@@ -205,3 +223,4 @@ Les dégâts sont retirés de la "vie" de l'autre héros.
 **qui affiche le détail des coups infligés et se termine à la mort d'un héros.**
 
 #### bonus : Qui est le vainqueur ?
+ [Répondre](answers/algorithmie/question_1.php)
