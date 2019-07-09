@@ -7,7 +7,9 @@ nous souhaiterions que vous résolviez les quelques tests ci-dessous.**
 La procédure est simple, il suffit :
   - de forker ou cloner le repo
   - de répondre à chaque question au sein du fichier correspondant qui se trouve dans le dossier racine answers/
-  - de soit nous inviter (@julienOmendo) sur votre fork afin que l'on puisse avoir un visuel, soit de nous envoyer votre repo zippé 
+  - de :
+     - soit nous inviter (@julienOmendo) sur votre fork afin que l'on puisse avoir un visuel, 
+     - soit de nous envoyer votre repo zippé 
   par email (dev@omendo.com)
 
 ## JQUERY
