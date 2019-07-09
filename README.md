@@ -23,7 +23,7 @@ La procedure est simple, il suffit :
     page chargée depuis 5s
   ```
 
- ###2/ Click
+ ### 2/ Click
  Sur un élément HTML button il y a déjà quelques évènements ‘click’ attachés. En utilisant jQuery, attachez un 
  évènement ‘click’ supplémentaire puis détachez-le sans toucher aux autres events.
  
@@ -93,7 +93,7 @@ La procedure est simple, il suffit :
 
 ### 2/ Ecrirez les requêtes SQL permettant de répondre aux questions suivantes :
 
-####Considérant les deux tables suivantes :
+#### Considérant les deux tables suivantes :
 **Table 'Category'**
  - id
  - name
@@ -105,7 +105,7 @@ La procedure est simple, il suffit :
  - category_id
  - price
 
-####Questions :
+#### Questions :
 
 - a. Quels produits contiennent le mot "clavier" dans leur description ?
 - b. Quelle catégorie contient le produit nommé "Produit 1" ?
@@ -160,7 +160,7 @@ $products = array(
     );
 $categories = array ("Catégorie 1", "Catégorie 2", "Catégorie 3");
 ```
-####Ecrire le code PHP permettant d'afficher les produits par catégorie sous la forme :
+#### Ecrire le code PHP permettant d'afficher les produits par catégorie sous la forme :
  - Catégorie 1 : Produit 1
  - Catégorie 2 : Produit 2, Produit 3, Produit 4
  - Catégorie 3 : Produit 5, Produit 6
@@ -173,7 +173,7 @@ On dispose de la variable suivante :
 #### c. Remplacer chaque lettre de début des mots par la majuscule correspondante
 
 
-##Algorithmie
+## Algorithmie
 
 Nous avons les 2 tableaux suivants :
 
