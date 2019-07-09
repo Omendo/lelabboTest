@@ -1,13 +1,13 @@
 # test de compétences
 
-**Afin que votre entretien puisse être appuyer sur du concret et l'on ai une petite idée avant ce dernier sur vos 
-compétences au sujet des technologies que nous utilisons au quotidien,
+**Afin que votre entretien puisse être appuyé sur du concret et que l'on ai une petite idée de vos 
+compétences par rapport aux technologies que nous utilisons au quotidien,
 nous souhaiterions que vous résolviez les quelques tests ci-dessous.**
 
-La procedure est simple, il suffit :
+La procédure est simple, il suffit :
   - de forker ou cloner le repo
-  - de répondre à chaque question au sein de fichier correspondant qui se trouve dans le dossier racine answers/
-  - de soit nous inviter (@julienOmendo) sur votre fork afin qu'on puisse le voir, soit nous envoyer votre repo zippé 
+  - de répondre à chaque question au sein du fichier correspondant qui se trouve dans le dossier racine answers/
+  - de soit nous inviter (@julienOmendo) sur votre fork afin que l'on puisse avoir un visuel, soit de nous envoyer votre repo zippé 
   par email (dev@omendo.com)
 
 ## JQUERY
