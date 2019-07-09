@@ -1,9 +1,9 @@
 # lelabboTest
-test de compétences
+# test de compétences
 
-Afin que votre entretien puisse être appuyer sur du concret et l'on ai une petite idée avant ce dernier sur vos 
+**Afin que votre entretien puisse être appuyer sur du concret et l'on ai une petite idée avant ce dernier sur vos 
 compétences au sujet des technologies que nous utilisons au quotidien,
-nous souhaiterions que vous résolviez les quelques tests ci-dessous.
+nous souhaiterions que vous résolviez les quelques tests ci-dessous.**
 
 La procedure est simple, il suffit :
   - de forker ou cloner le repo
